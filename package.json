@@ -1,0 +1,27 @@
+{
+  "name": "bwt21p137-st",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AjaxPozivi.js",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "chai": "^4.3.4",
+    "express": "^4.17.2",
+    "mocha": "^9.1.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.14.0",
+    "sinon": "^12.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ahadzialic2@bitbucket.org/ahadzialic2/bwt21p137-st.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ahadzialic2/bwt21p137-st#readme"
+}
